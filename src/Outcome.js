@@ -19,6 +19,7 @@ const Outcome=()=> {
  {name2&&<Class />}
 </div>
 
+
   )
 }
 export default Outcome
